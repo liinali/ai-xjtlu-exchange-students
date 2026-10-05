@@ -34,7 +34,7 @@ This project focuses on **incoming exchange students** This group that has to na
 
  ## How will I reach them?
 
-Since the researcher is an exchange student, we have direct access to the target group.
+Since I am an exchange student, I have direct access to the target group.
 
 | Channel | Method |
 |---|---|
