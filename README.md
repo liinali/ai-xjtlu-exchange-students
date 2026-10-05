@@ -29,7 +29,7 @@ This project focuses on **incoming exchange students** This group that has to na
 **Target group:** Incoming exchange students at XJTLU for the **2026/2027 academic year**
 
 **Why this group?**
-- They are reachable - the researcher is an exchange student too
+- They are reachable - I am an exchange student too
 - Their experience directly affects XJTLU's internationalization goals
 
  ## How I will reach them?
