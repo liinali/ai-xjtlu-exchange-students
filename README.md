@@ -32,7 +32,7 @@ This project focuses on **incoming exchange students** This group that has to na
 - They are reachable - the researcher is an exchange student too
 - Their experience directly affects XJTLU's internationalization goals
 
- ## How will I reach them?
+ ## How I will reach them?
 
 Since I am an exchange student, I have direct access to the target group.
 
