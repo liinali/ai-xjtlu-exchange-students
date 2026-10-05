@@ -1,4 +1,7 @@
 # Evaluating AI Integration at XJTLU: A Study of Exchange Student Information Needs
+**For ADS401**
+
+**Author:** Alina Gromova
 
 ---
 
