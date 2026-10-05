@@ -11,7 +11,7 @@ XJTLU is exploring AI integration to improve student services. But before adding
 
 This project focuses on **incoming exchange students** This group that has to navigate a lot of complex information in a very short time (visa, module selection, accommodation, banking, campus life). Right now, that information is scattered across the XJTLU website.
 
-**My hypothesis:** A single, well-organized "Exchange Student Hub" page may serve these students better than an AI chatbot. Clear website structure may be faster, more trustworthy, and easier to use.
+**My hypothesis:** A single, well-organized "Exchange Student Hub" section on the XJTLU oficcial website may serve these students better than an AI chatbot. Clear website structure may be faster, more trustworthy, and easier to use.
 
 
 ---
