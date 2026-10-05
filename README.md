@@ -20,7 +20,7 @@ This project focuses on **incoming exchange students** This group that has to na
 2. How does a well-structured website section compare to an AI chatbot in terms of speed, accuracy, and user satisfaction?
    *(Core comparison: A/B usability test)*
 3. What are exchange students' attitudes toward AI assistants on university websites, and which solution do they prefer for different types of queries?
-      *(Preference & attitudes: post-test questionnaire + interviews)*
+      *(Preference and attitudes: post-test questionnaire + interviews)*
 
 ---
 
