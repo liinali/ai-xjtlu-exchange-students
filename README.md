@@ -7,26 +7,26 @@
 
 ## What is this project about?
 
-XJTLU is exploring AI integration to improve student services. But before adding AI, I want to ask a simpler question: **is AI actually the right tool for the job?**
+XJTLU is exploring AI integration to improve student services. But before adopting AI widely, there is a more important question to answer:
 
-This project focuses on **incoming exchange students** This group that has to navigate a lot of complex information in a very short time (visa, module selection, accommodation, banking, campus life). Right now, that information is scattered across the XJTLU website.
+**For which tasks is AI actually useful, and for which tasks is it unnecessary or worse than conventional resources?**
 
-**My hypothesis:** A single, well-organized "Exchange Student Hub" section on the XJTLU oficcial website may serve these students better than an AI chatbot. Clear website structure may be faster, more trustworthy, and easier to use.
+This project evaluates AI integration from the perspective of **incoming exchange students at XJTLU** a group that has to navigate a lot of complex information in a short time (visa, module selection, accommodation, banking, campus life).
 
 
 ---
 
-## Research Questions (preliminary)
+# Research Questions (preliminary)
 
-1. What information do incoming exchange students at XJTLU need, and what challenges do they face in finding it?
-   
-    *(Needs analysis: pre-test survey + interviews)*
-2. How does a well-structured website section compare to an AI chatbot in terms of speed, accuracy, and user satisfaction?
-   
-   *(Core comparison: A/B usability test)*
-3. What are exchange students' attitudes toward AI assistants on university websites, and which solution do they prefer for different types of queries?
-   
-      *(Preference and attitudes: post-test questionnaire + interviews)*
+**Main question:**
+How do exchange students at XJTLU experience AI integration, and for which information-seeking tasks do they perceive AI as useful vs unnecessary?
+
+**Stage 1 – Exploratory:**
+- **RQ1:** What are exchange students' current experiences, expectations, and concerns regarding AI at XJTLU? In which situations do they prefer AI, and in which do they prefer conventional resources?
+- **RQ2:** What are the main information-seeking challenges exchange students face, and which of these do they believe AI could or could not help with?
+
+**Stage 2 – Experimental:**
+- **RQ3:** For selected information-seeking tasks identified in Stage 1, how does AI assistance compare to conventional resources in terms of task speed, accuracy, and user satisfaction?
 
 ---
 
