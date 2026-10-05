@@ -19,10 +19,13 @@ This project focuses on **incoming exchange students** This group that has to na
 ## Research Questions (preliminary)
 
 1. What information do incoming exchange students at XJTLU need, and what challenges do they face in finding it?
+   
     *(Needs analysis: pre-test survey + interviews)*
 2. How does a well-structured website section compare to an AI chatbot in terms of speed, accuracy, and user satisfaction?
+   
    *(Core comparison: A/B usability test)*
 3. What are exchange students' attitudes toward AI assistants on university websites, and which solution do they prefer for different types of queries?
+   
       *(Preference and attitudes: post-test questionnaire + interviews)*
 
 ---
